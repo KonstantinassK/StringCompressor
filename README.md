@@ -12,3 +12,7 @@ Output:
 "a3b2" → "aaabb"
 "a1b1c1" → "abc"
 "" → ""
+
+RESULT:
+
+![{8BCD032C-1E79-44B9-8948-B28ABA8F52BD}](https://github.com/user-attachments/assets/eb82f4a8-90d4-4c76-80a5-0db7a5ee39e9)
